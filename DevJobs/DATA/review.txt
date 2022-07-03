@@ -1,0 +1,9 @@
+Hey Everyone I have done this project of frontend mentor
+https://www.frontendmentor.io/challenges/devjobs-web-app-HuvC_LP4l
+
+Repo: https://github.com/farhankolad12/DevJobs-App.git
+Live: https://devjobs-farhan.netlify.app/
+
+I want review on this project and let me know what's the best way to toggle through dark and light theme
+I have found difficulty in theme toggling and filtering jobs at first I have filtered jobs one by one input
+I have commented out the code in the file but then make a one function which filtered out everything
